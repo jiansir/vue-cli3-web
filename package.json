@@ -1,6 +1,7 @@
 {
-  "name": "vue_template",
-  "version": "0.1.0",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}",
+  "description": "{{projectDescription}}",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
